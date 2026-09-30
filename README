@@ -1,1 +1,2 @@
-
+Developed and deployed a Netflix-style web application on an AWS EC2 Ubuntu server, The application was built using HTML, CSS, and JavaScript and hosted using the Nginx web server.
+Configured AWS Security Groups to allow HTTP traffic on port 80 and SSH access for secure server administration.Connected the EC2 instance to the internet through an Internet Gateway and deployed the web application for access through the EC2 public IP address.
